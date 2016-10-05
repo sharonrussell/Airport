@@ -1,0 +1,6 @@
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.dll
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.pdb
+C:\Git\personal\Airport\Airport\obj\Debug\AirportTrafficControl.dll
+C:\Git\personal\Airport\Airport\obj\Debug\AirportTrafficControl.pdb
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.dll.CodeAnalysisLog.xml
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.dll.lastcodeanalysissucceeded

@@ -1,0 +1,7 @@
+C:\Git\personal\Airport\Airport\obj\Debug\Airport.csprojResolveAssemblyReference.cache
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.dll
+C:\Git\personal\Airport\Airport\bin\Debug\AirportTrafficControl.pdb
+C:\Git\personal\Airport\Airport\bin\Debug\nunit.framework.dll
+C:\Git\personal\Airport\Airport\bin\Debug\nunit.framework.xml
+C:\Git\personal\Airport\Airport\obj\Debug\AirportTrafficControl.dll
+C:\Git\personal\Airport\Airport\obj\Debug\AirportTrafficControl.pdb

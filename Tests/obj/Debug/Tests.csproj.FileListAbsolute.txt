@@ -1,0 +1,11 @@
+C:\Git\personal\Airport\Tests\bin\Debug\Tests.dll
+C:\Git\personal\Airport\Tests\bin\Debug\Tests.pdb
+C:\Git\personal\Airport\Tests\bin\Debug\AirportTrafficControl.dll
+C:\Git\personal\Airport\Tests\bin\Debug\nunit.framework.dll
+C:\Git\personal\Airport\Tests\bin\Debug\AirportTrafficControl.pdb
+C:\Git\personal\Airport\Tests\bin\Debug\nunit.framework.xml
+C:\Git\personal\Airport\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Git\personal\Airport\Tests\obj\Debug\Tests.dll
+C:\Git\personal\Airport\Tests\obj\Debug\Tests.pdb
+C:\Git\personal\Airport\Tests\bin\Debug\Tests.dll.CodeAnalysisLog.xml
+C:\Git\personal\Airport\Tests\bin\Debug\Tests.dll.lastcodeanalysissucceeded
