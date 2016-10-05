@@ -1,9 +1,0 @@
-C:\Git\personal\Airport\AirportTests\bin\Debug\AirportTests.dll
-C:\Git\personal\Airport\AirportTests\bin\Debug\AirportTests.pdb
-C:\Git\personal\Airport\AirportTests\bin\Debug\Airport.dll
-C:\Git\personal\Airport\AirportTests\bin\Debug\nunit.framework.dll
-C:\Git\personal\Airport\AirportTests\bin\Debug\Airport.pdb
-C:\Git\personal\Airport\AirportTests\bin\Debug\nunit.framework.xml
-C:\Git\personal\Airport\AirportTests\obj\Debug\AirportTests.csprojResolveAssemblyReference.cache
-C:\Git\personal\Airport\AirportTests\obj\Debug\AirportTests.dll
-C:\Git\personal\Airport\AirportTests\obj\Debug\AirportTests.pdb
